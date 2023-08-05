@@ -11,3 +11,4 @@ not usable for the moment but that will change no doubt.
 
 # Creative mod tab
 ![2023-08-05_10 23 44](https://github.com/timeobdt/moding-minecraft-1.19/assets/136178363/3622846c-a122-4f13-bd32-5182713d5e21)
+I change the name no problem !
