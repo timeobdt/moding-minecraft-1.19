@@ -1,6 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
-
+  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "tutorialmod:zircon_block"
