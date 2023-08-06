@@ -9,6 +9,9 @@
   "item.tutorialmod.ruby": "Ruby",
   "item.tutorialmod.raw_ruby": "Raw Ruby",
 
+  "item.tutorialmod.poutcher": "Poutcher",
+  "block.tutorialmod.poutcher_block": "Block of Poutcher",
 
-  "itemGroup.tutorialtab": "My Mod Tab"
+  "itemGroup.mod_tab": "My Mod Tab",
+  "itemGroup.super_secret_tab": "Super Secret Tab Contain Some Super Secret Items !!!!"
 }

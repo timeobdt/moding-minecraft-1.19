@@ -9,5 +9,14 @@ public class ModCreativeModeTab {
         public ItemStack makeIcon() {
             return new ItemStack(ModItems.RUBY.get());
         }
+
+
+    };
+
+    public static final CreativeModeTab SUPER_SECRET_TAB = new CreativeModeTab("super_secret_tab") {
+        @Override
+        public ItemStack makeIcon() {
+            return new ItemStack(ModItems.RUBY.get());
+        }
     };
 }

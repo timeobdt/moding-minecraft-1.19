@@ -24,6 +24,8 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.MOD_TAB)));
     public static final RegistryObject<Item> RAW_RUBY = ITEMS.register("raw_ruby",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.MOD_TAB)));
+    public static final RegistryObject<Item> POUTCHER = ITEMS.register("poutcher",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.SUPER_SECRET_TAB)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

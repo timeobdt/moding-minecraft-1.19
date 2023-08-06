@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "ingredients": [
+    {
+      "item": "tutorialmod:zircon_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:zircon",
+    "count": 9
+  }
+}
